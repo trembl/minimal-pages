@@ -2,3 +2,5 @@
 
 
 ![Image](/images/joe.jpg)
+
+[Image](/images/joe.jpg)
