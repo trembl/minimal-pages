@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to BioHack Academy
 
 
-![Image](/images/joe.jpg)
 
-[Image](/images/joe.jpg)
+[BioClub Tokyo](https://www.bioclub.tokyo)
+
+
+[Week 1](/week1)
