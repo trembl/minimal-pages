@@ -1,3 +1,8 @@
 theme: jekyll-theme-minimal
 title: [Hello BioHack Academy!]
 description: [My documentation page]
+
+docs_list_title: ACME Documentation
+docs:
+- title: Introduction
+  url: introduction.html
