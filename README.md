@@ -1,4 +1,4 @@
-[About](/about) [Week 1](/week1)
+<h1>[About](/about) | [Week 1](/week1)</h1>
 
 
 ## Welcome to BioHack Academy
